@@ -20,6 +20,14 @@ The log of my #100DaysOfCode challenge. Started on [January 8th, Saturday, 2022]
 **Link(s) to work**: [Flevar Editor (WIP)](https://flevar.com)
 
 
+### R1D3: January 11th, Tuesday
+**Today's Progress**: Started working on the landing page for the FlevaR Editor
+
+**Thoughts**: I've decided to use Express and TailwindCSS for it. I planned on one hour alone but spent all day trying to figure out why some styles would not show up when building. Turns out I needed to remove the `mode: "jit"` flag and it would show up. :)
+
+**Link(s) to work**: [Twitter](https://twitter.com/danidre/status/1481051874904186886)
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
