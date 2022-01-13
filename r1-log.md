@@ -28,6 +28,22 @@ The log of my #100DaysOfCode challenge. Started on [January 8th, Saturday, 2022]
 **Link(s) to work**: [Twitter](https://twitter.com/danidre/status/1481051874904186886)
 
 
+### R1D4: January 12th, Wednesday
+**Today's Progress**: Started working on FlevaR's landing page.
+
+**Thoughts**: It took a while for me to regain familiarity with tailwind. I started with a preset template and customized it to FlevaR. I have no wifi today to check tailwind's documentations, so fortunately a VSCode extension would give me a suggested class to use depending on my closest guess of what I want. I created the placeholder menus for 'learn', 'about', and 'blog' pages; I will fill them in at a later time. The 'create' link would go to `https://editor.flevar.com/`, which is the main purpose of the landing page currently.
+
+**Link(s) to work**: [FlevaR Editor](https://www.flevar.com)
+
+
+### R1D5: January 13th, Thursday
+**Today's Progress**: Made FlevaR's landing page responsive and ready to be uploaded.
+
+**Thoughts**: Tailwind's media queries were a bit counter intuitive. I had to remind myself: build for small screen, alter for larger screen. It took a while to look satisfactory on all screen sizes, getting the footer and menu correct with the proper spacing even on smaller screens was fun to do. I still do not have wifi to look for fonts, but it is ready to go live.
+
+**Link(s) to work**: [FlevaR Editor](https://www.flevar.com)
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
