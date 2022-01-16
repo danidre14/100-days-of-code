@@ -44,6 +44,14 @@ The log of my #100DaysOfCode challenge. Started on [January 8th, Saturday, 2022]
 **Link(s) to work**: [FlevaR Editor](https://www.flevar.com)
 
 
+### R1D6: January 16, Sunday
+**Today's Progress**: Today I completed a Celestial Bodies Database Certification on freeCodeCamp.
+
+**Thoughts**: With requirements of database schemas, it is always important to spend time planning what tables and pieces of data should go where. While you can alter tables for added information, I find it best to plan and know in advance so you can add the constraints and create the tables all at once.
+
+**Link(s) to work**: [Twitter Status](https://twitter.com/danidre/status/1482776360934334466)
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
