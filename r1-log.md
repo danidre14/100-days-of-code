@@ -52,6 +52,14 @@ The log of my #100DaysOfCode challenge. Started on [January 8th, Saturday, 2022]
 **Link(s) to work**: [Twitter Status](https://twitter.com/danidre/status/1482776360934334466)
 
 
+### R1D7: January 17, Monday
+**Today's Progress**: Today I learnt more bash commands from freeCodeCamp's Database Certification, but ultimately got stuck. 
+
+**Thoughts**: Unlike the previous projects, so far most of the exercises require self research to figure out, which is very tedious. One would expect to be made known what commands to use and later expected to remember it, but I was left to fend for myself. It was very frustrating since I had to start over for every little mistake since I did not know any easier methods, and google resulted in strange commands I have never seen before. For some reason, at one point it idid not seem like I can make future progress, even by finally figuring things out and doing exactly what they asked. In the end, I only went from 3% to 8% progress in one hour. I might actually have to start over tomorrow, but I've given up for today.
+
+**Link(s) to work**: [Twitter Status](https://twitter.com/danidre/status/1483198589308444672)
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
