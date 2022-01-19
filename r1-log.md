@@ -60,6 +60,14 @@ The log of my #100DaysOfCode challenge. Started on [January 8th, Saturday, 2022]
 **Link(s) to work**: [Twitter Status](https://twitter.com/danidre/status/1483198589308444672)
 
 
+### R1D8: January 18, Tuesday
+**Today's Progress**: Today I made more progress learning bash commands.
+
+**Thoughts**: There are many ways to find options about commands; man (manual) command, help command, command --help...Also a nano command allows much more efficient editing of files without having to use sed, etc to append or alter lines in files. After a little more than an hour, I only completed about 34% of the project, but it is much more progress then yesterday so I feel more positive and motivated about continuing it.
+
+**Link(s) to work**: [Twitter Status](https://twitter.com/danidre/status/1483598605843894279)
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
