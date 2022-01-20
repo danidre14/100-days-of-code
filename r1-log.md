@@ -68,6 +68,14 @@ The log of my #100DaysOfCode challenge. Started on [January 8th, Saturday, 2022]
 **Link(s) to work**: [Twitter Status](https://twitter.com/danidre/status/1483598605843894279)
 
 
+### R1D9: January 9, Wednesday
+**Today's Progress**: Today I made even more progress with bash and command shell lines and completed another project in the freeCodeCamp Relational Database Certification.
+
+**Thoughts**: Commands like sleep, square bracket or parenthesis if statements, arrays, etc made it fun to create the 5 programs in this project. It's been easier to made progress, as I have gotten more familiar with certain commands and can do them quickly. I may return to this project to practice conditional commands and RegExp expressions again.
+
+**Link(s) to work**: [Twitter Status](https://twitter.com/danidre/status/1483967303976984582)
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
