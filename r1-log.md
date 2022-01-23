@@ -76,6 +76,14 @@ The log of my #100DaysOfCode challenge. Started on [January 8th, Saturday, 2022]
 **Link(s) to work**: [Twitter Status](https://twitter.com/danidre/status/1483967303976984582)
 
 
+### R1D10: January 22, Saturday
+**Today's Progress**: Today I changed some links on the FlevaR Editor landing page.
+
+**Thoughts**: Rather than have useless links on the site that led to hastag (#) hrefs, I decided to put links to existing pages and additional information related to FlevaR. Unfortunately I missed 2 days due to a physical injury, but I tried to at least get some coding in today, as little as it wash. The changes have been pushed to main and deployed!
+
+**Link(s) to work**: [FlevaR Editor](https://www.flevar.com)
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
