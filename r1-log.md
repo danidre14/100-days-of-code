@@ -96,6 +96,16 @@ This project was very simple for me because I had prior experience with nano fro
 **Link(s) to work**: [Danidre Games _(last 4 games are old flash games)_](https://danidre.com/games/)
 
 
+### R1D12: January 24, Monday
+**Today's Progress**: Today I learnt advanced bash by building a kitty ipsum translator! Sed and grep are fun commands, and redirecting outputs and/or piping inputs is quite powerful and useful!
+
+**Thoughts**: The freeCodeCamp project took me about 3 hours to complete today, since I was dedicated to finish it. It refreshed me on commands I knew before (nano, echo, man) and taught me new commands (2>, 1>, |, grep, sed) as well as a few useful regular expressions. In my opinion, this project did a great job at reinforcing what was being taught, and somehow this time doing repeated actions was more fun than tedious, since I had the options of exploring the different flags for different commands and test out what I remembered, before committing them to files. It sure beats copy/pasting, and made it enjoyable.
+
+![image](https://user-images.githubusercontent.com/10374096/150889217-8f64cbc3-6dc1-4ee6-9659-7770fa942239.png)
+
+**Link(s) to work**: [Twitter Status](https://twitter.com/danidre/status/1485775100708331523)
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
