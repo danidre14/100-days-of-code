@@ -106,6 +106,12 @@ This project was very simple for me because I had prior experience with nano fro
 **Link(s) to work**: [Twitter Status](https://twitter.com/danidre/status/1485775100708331523)
 
 
+### R1D13: January 26, Wednesday
+**Today's Progress**: Today I stress tested my game engine and created a simple way to host/view sample games.
+
+**Thoughts**: I have many optimizations to make on the engine. I learnt that you can send individual html files in express even if it is using the ejs view engine. I had trouble providing the html of the game from the public static folder, so I had to server it to the client using a route.
+
+**Link(s) to work**: [Stress Test: Engine Prefab vs Raw Object](https://flevar.com/sandbox-samples/stress-test-engine-prefab-vs-raw-object.html)
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
