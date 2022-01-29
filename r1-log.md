@@ -112,6 +112,24 @@ This project was very simple for me because I had prior experience with nano fro
 **Thoughts**: I have many optimizations to make on the engine. I learnt that you can send individual html files in express even if it is using the ejs view engine. I had trouble providing the html of the game from the public static folder, so I had to server it to the client using a route.
 
 **Link(s) to work**: [Stress Test: Engine Prefab vs Raw Object](https://flevar.com/sandbox-samples/stress-test-engine-prefab-vs-raw-object.html)
+
+
+### R1D14: January 27, Thursday
+**Today's Progress**: Today I learned a few git commands, including checkout and branch, as well as flags such as --oneline (for git log)
+
+**Thoughts**: So far the git project on freeCodeCamp has been easy to do. It drew upon previous knowledge such as nano and bash commands, which I confidently performed as I am not more proficient in the skill. I did not finish the project within the hour, but I did make significant progress for the day.
+
+**Link(s) to work**: [fCC New Years Resolution](https://www.freecodecamp.org/news/2022-become-a-dev-new-years-resolution-challenge/)
+
+
+### R1D15: January 28, Friday
+**Today's Progress**: Today I learned more git commands, and inevitably had to rebuild the fCC docker project container due to an error on their end.
+
+**Thoughts**: Rebase is a very tricky tool, resolving complex conflicts; and who knew `git stash` existed? 😮 I feel like I'm getting better at the commands from memory (such as git checkout) so although I feel discouraged having to start it over due to lost data, I know that I'll be back up to speed in no time.
+
+**Link(s) to work**: [fCC New Years Resolution](https://www.freecodecamp.org/news/2022-become-a-dev-new-years-resolution-challenge/)
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
