@@ -130,6 +130,18 @@ This project was very simple for me because I had prior experience with nano fro
 **Link(s) to work**: [fCC New Years Resolution](https://www.freecodecamp.org/news/2022-become-a-dev-new-years-resolution-challenge/)
 
 
+### R1D16: January 29, Saturday
+**Today's Progress**: Today I practiced scraping data from a website to present in a more readable format.
+
+**Thoughts**: I learnt that it is convenient to scrape web data for use cases such as scraping open graph meta tags to display rich embeds for links in your webpage. I have not used jQuery before, but Cheer.io boasts to be similar, and it was easy to get the required data necessary.
+
+
+### R1D17: January 30, Sunday
+**Today's Progress**: Today I wrote and tested an API using VSCode's REST API extension.
+
+**Thoughts**: I had the extension on my computer for two years (possibly by following an old tutorial) but never personally used it until now. Files end in `.rest` and you can click them according to their syntax, to make the desired API request. I used this with the express API to test out the web scraping practice I did yesterday.
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
