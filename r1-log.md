@@ -142,6 +142,24 @@ This project was very simple for me because I had prior experience with nano fro
 **Thoughts**: I had the extension on my computer for two years (possibly by following an old tutorial) but never personally used it until now. Files end in `.rest` and you can click them according to their syntax, to make the desired API request. I used this with the express API to test out the web scraping practice I did yesterday.
 
 
+### R1D18: January 31, Monday
+**Today's Progress**: Today I learnt about ArrayLists and the extends keyword in java.
+
+**Thoughts**: When a class extends another, you can call methods of the superclass without creating them in the subclass. Additionally, you can access super variables by declaring them as protected. I have much more experimentation to do.
+
+
+### R1D19: February 1, Tuesday
+**Today's Progress**: Today I landed my first Software Development job!
+
+**Thoughts**: I was able to use the knowledge learnt from freeCodeCamp's bash tutorials to complete assigned tasks adequately.
+
+
+### R1D20: February 2, Wednesday
+**Today's Progress**: Today I confused myself over cors and browsers with fetch requests.
+
+**Thoughts**: You must include the 'content-type' in fetch requests and the API must have cors enabled...but the fetch requests that worked for Chrome, returned Security errors on Firefox. I took a break after an hour of unsuccessful googling on Firefox's possible issue. (it could be blocked cookies on the browser itself, I do not know).
+
+
 <!--
 ### R1Dx: January x, xday
 **Today's Progress**: Coming soon
