@@ -160,8 +160,16 @@ This project was very simple for me because I had prior experience with nano fro
 **Thoughts**: You must include the 'content-type' in fetch requests and the API must have cors enabled...but the fetch requests that worked for Chrome, returned Security errors on Firefox. I took a break after an hour of unsuccessful googling on Firefox's possible issue. (it could be blocked cookies on the browser itself, I do not know).
 
 
+### R1D21: February 5, Saturday
+**Today's Progress**: Today I added an internal console to the engine.
+
+**Thoughts**: Rather than crash when third party cookies are blocked (needed for saving/loading), a console warns the player instead.
+![image](https://user-images.githubusercontent.com/10374096/152661572-1e06bcb9-95ff-44f2-a377-0dfbff7715ee.png)
+
+
+**Link(s) to work**: [Mountain Bell Ski](https://danidre.itch.io/mountain-bell-ski) (test in incognito)
 <!--
-### R1Dx: January x, xday
+### R1Dx: February x, xday
 **Today's Progress**: Coming soon
 
 **Thoughts**: Coming soon
