@@ -168,6 +168,14 @@ This project was very simple for me because I had prior experience with nano fro
 
 
 **Link(s) to work**: [Mountain Bell Ski](https://danidre.itch.io/mountain-bell-ski) (test in incognito)
+
+
+### R1D22: February 7, Monday
+**Today's Progress**: Today I practiced encrypting data in python using ceasar cipher and OTPs. 
+
+**Thoughts**: The keys and encrypted content was transmitted via sockets on different hosts, and the receiver was able to decrypt the key and message using the OTP. It was a really fun project, as it gave me a deeper understanding of even the basics of security and encryption.
+
+
 <!--
 ### R1Dx: February x, xday
 **Today's Progress**: Coming soon
