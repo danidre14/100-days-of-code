@@ -181,8 +181,9 @@ This project was very simple for me because I had prior experience with nano fro
 
 **Thoughts**: Code abstractions (getters/proxies) intended to make the developer's life easier resulted in much slower operations at scale. Because of this, it takes 80% of the time to tick, and 20% to render (so rendering isn't even the bottleneck). I've used Firefox, Chrome, and Edge's profilers and thoroughly documented any removals, fixes, changes, optimization or more than I'd need to make. It may involve changing the architecture of the engine, but I believe it can be done with time.
 
-**Link(s) to work**: [Stress Test: Engine Prefab vs Raw Object](https://flevar.com/sandbox-samples/stress-test-engine-prefab-vs-raw-object.html)
-[Twitter Status](https://twitter.com/danidre/status/1491270551351881730)
+**Link(s) to work**: 
+- [Stress Test: Engine Prefab vs Raw Object](https://flevar.com/sandbox-samples/stress-test-engine-prefab-vs-raw-object.html)
+- [Twitter Status](https://twitter.com/danidre/status/1491270551351881730)
 
 
 <!--
