@@ -176,6 +176,15 @@ This project was very simple for me because I had prior experience with nano fro
 **Thoughts**: The keys and encrypted content was transmitted via sockets on different hosts, and the receiver was able to decrypt the key and message using the OTP. It was a really fun project, as it gave me a deeper understanding of even the basics of security and encryption.
 
 
+### R1D23: February 8, Tueday
+**Today's Progress**: Today I profiled the performance of a stress tested "game" created in my editor, powered by my engine.
+
+**Thoughts**: Code abstractions (getters/proxies) intended to make the developer's life easier resulted in much slower operations at scale. Because of this, it takes 80% of the time to tick, and 20% to render (so rendering isn't even the bottleneck). I've used Firefox, Chrome, and Edge's profilers and thoroughly documented any removals, fixes, changes, optimization or more than I'd need to make. It may involve changing the architecture of the engine, but I believe it can be done with time.
+
+**Link(s) to work**: [Stress Test: Engine Prefab vs Raw Object](https://flevar.com/sandbox-samples/stress-test-engine-prefab-vs-raw-object.html)
+[Twitter Status](https://twitter.com/danidre/status/1491270551351881730)
+
+
 <!--
 ### R1Dx: February x, xday
 **Today's Progress**: Coming soon
