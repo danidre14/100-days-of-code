@@ -186,6 +186,12 @@ This project was very simple for me because I had prior experience with nano fro
 - [Twitter Status](https://twitter.com/danidre/status/1491270551351881730)
 
 
+### R1D24: February 10, Thursday
+**Today's Progress**: Today I...read some programming related articles...
+
+**Thoughts**: It's been a really exhausting and draining few days where I'm not even getting time to program. I figured I can at least read something for about 30 minutes, rather than just keep missing days.
+
+
 <!--
 ### R1Dx: February x, xday
 **Today's Progress**: Coming soon
