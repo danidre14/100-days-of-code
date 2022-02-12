@@ -192,6 +192,12 @@ This project was very simple for me because I had prior experience with nano fro
 **Thoughts**: It's been a really exhausting and draining few days where I'm not even getting time to program. I figured I can at least read something for about 30 minutes, rather than just keep missing days.
 
 
+### R1D25: February 11, Friday
+**Today's Progress**: Today I worked on optimizations in my game engine.
+
+**Thoughts**: Previously, at 1000 flevaclips, each loop took 300ms to perform. I was able to reduce this to 100ms per loop at 1000 flevaclips. However, the countless getters I've created puts a huge bottleneck on the engine, which prevents it from being reduced to the ideal 10ms per loop. The final verdict is now to restructure the architecture of the engine, or re-write the engine.
+
+
 <!--
 ### R1Dx: February x, xday
 **Today's Progress**: Coming soon
