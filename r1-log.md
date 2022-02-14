@@ -198,6 +198,12 @@ This project was very simple for me because I had prior experience with nano fro
 **Thoughts**: Previously, at 1000 flevaclips, each loop took 300ms to perform. I was able to reduce this to 100ms per loop at 1000 flevaclips. However, the countless getters I've created puts a huge bottleneck on the engine, which prevents it from being reduced to the ideal 10ms per loop. The final verdict is now to restructure the architecture of the engine, or re-write the engine.
 
 
+### R1D26: February 13, Sunday
+**Today's Progress**: Today I was able to reduce the tick from 40ms to 3.1ms by using a lookup table instead of a for loop.
+
+**Thoughts**: A slight increase in memory consumption, for an effective increase in performance. 🤩 Instead of looping through hundreds of flevaclips per frame to detect a matching UID (which takes longer the more flevaclips), I simply, upon flevaclips instantiation, add that UID to an object variable as the key, along with the referenced flevaclip as the value. Then, instead of looping each frame, I simply check the object variable for that existing UID and relative flevaclips reference. O(1) instead of O(n).
+
+
 <!--
 ### R1Dx: February x, xday
 **Today's Progress**: Coming soon
