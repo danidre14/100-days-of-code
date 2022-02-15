@@ -204,6 +204,12 @@ This project was very simple for me because I had prior experience with nano fro
 **Thoughts**: A slight increase in memory consumption, for an effective increase in performance. 🤩 Instead of looping through hundreds of flevaclips per frame to detect a matching UID (which takes longer the more flevaclips), I simply, upon flevaclips instantiation, add that UID to an object variable as the key, along with the referenced flevaclip as the value. Then, instead of looping each frame, I simply check the object variable for that existing UID and relative flevaclips reference. O(1) instead of O(n).
 
 
+### R1D27: February 14, Monday
+**Today's Progress**: Today I learnt about polymorphism in Java.
+
+**Thoughts**: Apparently a declared parent class can be instantiated as a new child type...but not the other way around. Static types are created and checked at compile-time, while the dynamic type from the instantiated object is called at run-time.
+
+
 <!--
 ### R1Dx: February x, xday
 **Today's Progress**: Coming soon
